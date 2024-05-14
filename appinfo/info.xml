@@ -29,8 +29,8 @@ Install the given apps for Context Chat to work as desired **in the given order*
 	</dependencies>
 	<external-app>
 		<docker-install>
-			<registry>ghcr.io</registry>
-			<image>nextcloud/context_chat_backend</image>
+			<registry>docker.io</registry>
+			<image>thehelpfulidiot/context_chat_backend</image>
 			<image-tag>2.1.1</image-tag>
 		</docker-install>
 		<scopes>
